@@ -28,17 +28,17 @@ Our team consists of three paths with different tasks, namely Mobile Development
 
 ## Features 💡
 
-### Image Classification
+### Image Classification 🧠
 
 This feature is useful for displaying information related to the symptoms, causes, prevention, and treatment of rice diseases. This feature is equipped with a camera or direct access to local files to upload images of rice diseases.  This feature will classify four rice diseases namely brown spot, blast, bacterial leaf blight, and tungro and combined with healthy rice.
 
-### Plant Monitoring Schedule
+### Game 🎮
 
-In this feature, combined with the weather API, users will get daily crop management recommendations using the scheduled cycle method and can make informed decisions about their planting schedule. Users can also input planting dates and get day-to-day care recommendations until harvest time.
+Users can play guessing semaphore game and show the statistic of the result
 
-### Weather API
+### Change Day-night theme
 
-This feature is used to view the weather when users will be farming. This is useful so that users can make informed decisions regarding their planting schedules.
+Users can change desired preference day/night theme via settings menu
 
 ## Next Feature Releases 🔜
 
