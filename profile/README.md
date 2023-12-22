@@ -44,10 +44,11 @@ Users can change desired preference day/night theme via settings menu
 
 ### Leaderboard Game
 
-Our next planned feature was:
+users enable to upload their result score and competing with others, making it competitive and less-boring learning. This implifies a Gamification theory, where users can enjoy learning based while also playing 
 
-- users enable to upload their result score and competing with others
-- users can predict semaphore in realtime, making it working without internet connection
+### Realtime Image Classification
+
+users can predict semaphore in realtime, making it working without internet connection
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Credit For:**
