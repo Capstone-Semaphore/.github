@@ -36,7 +36,7 @@ This feature is useful for displaying information related to the symptoms, cause
 
 Users can play guessing semaphore game and show the statistic of the result
 
-### Change Day-night theme
+### Change Day-night theme 🌘
 
 Users can change desired preference day/night theme via settings menu
 
